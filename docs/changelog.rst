@@ -1,6 +1,11 @@
 Changelog
 *********
 
+Version 0.6
+-----------
+
+* Added support for column families in a version different than the official one.
+
 Version 0.5
 -----------
 
